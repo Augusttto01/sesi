@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/*"
+to = "/tortura.html"
+status = 200
+
